@@ -1,0 +1,375 @@
+{
+  "main": {
+    "id": "3c834b1b5a88af8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4dd9f39f97a10b3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ced58e1f77f9442",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "치즈불닭.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "치즈불닭"
+            }
+          },
+          {
+            "id": "790289d703b7b9fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "오꼬노미야키.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "오꼬노미야키"
+            }
+          },
+          {
+            "id": "dd077c7c91474aa3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "감자그라탕.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "감자그라탕"
+            }
+          },
+          {
+            "id": "120835fb036797df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "마늘갈비살.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "마늘갈비살"
+            }
+          },
+          {
+            "id": "ecb6201fe40942d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "스키야키.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "스키야키"
+            }
+          },
+          {
+            "id": "f7895adaa3bc6c7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "샤브샤브.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "샤브샤브"
+            }
+          },
+          {
+            "id": "7734f8f54a55405b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "삼치 데리야끼.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "삼치 데리야끼"
+            }
+          },
+          {
+            "id": "fc785a2aa120b3ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "등심 스테이크.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "등심 스테이크"
+            }
+          },
+          {
+            "id": "b9a4887783df9208",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "돈테키.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "돈테키"
+            }
+          },
+          {
+            "id": "d444ab07808cd13e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "함박스테이크.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "함박스테이크"
+            }
+          },
+          {
+            "id": "624303d1857dbf5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "만능된장.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "만능된장"
+            }
+          },
+          {
+            "id": "d512b3f85f539fbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "탕수육.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "탕수육"
+            }
+          },
+          {
+            "id": "b7472903097a8eb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "감자그라탕.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "감자그라탕"
+            }
+          }
+        ],
+        "currentTab": 12
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fda124a26dcc93f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "07a3c0cbff9b1b1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92e3ecfe4ed401ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fd6e6e8ba9e09980",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d23e8abff776f995",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "4aff872c4259c834",
+    "type": "split",
+    "children": [
+      {
+        "id": "496589e25d16fa31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "104394db13fd3b47",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "감자그라탕.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 감자그라탕"
+            }
+          },
+          {
+            "id": "c95423fd17cc4eb2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "감자그라탕.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 감자그라탕"
+            }
+          },
+          {
+            "id": "9ba54db6f539b695",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e9283a4cae8e23fc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4d985842c514302a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "감자그라탕.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 감자그라탕"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "b7472903097a8eb4",
+  "lastOpenFiles": [
+    "어향가지.md",
+    "탕수육.md",
+    "만능된장.md",
+    "함박스테이크.md",
+    "돈테키.md",
+    "등심 스테이크.md",
+    "삼치 데리야끼.md",
+    "샤브샤브.md",
+    "스키야키.md",
+    "마늘갈비살.md",
+    "감자그라탕.md",
+    "오꼬노미야키.md",
+    "Welcome.md",
+    "치즈불닭.md",
+    "짜글이.md",
+    "금태 구이.md",
+    "소보로 덮밥.md"
+  ]
+}
