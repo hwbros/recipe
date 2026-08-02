@@ -27,13 +27,12 @@ body{
 
 /* ---------- Cover ---------- */
 .cover{
-  min-height:50vh;
   display:flex;
   flex-direction:column;
   align-items:center;
   justify-content:center;
   text-align:center;
-  padding:80px 24px 60px;
+  padding:40px 24px;
   background:var(--bg-alt);
   border-bottom:1px solid var(--line);
 }
@@ -43,7 +42,7 @@ body{
   color:#fff;
   background:var(--accent);
   font-weight:800;
-  margin-bottom:20px;
+  margin-bottom:16px;
   text-transform:uppercase;
   padding:6px 16px;
   border-radius:9999px;
@@ -52,7 +51,7 @@ body{
   font-weight:800;
   letter-spacing:-1.5px;
   font-size:2.8rem;
-  margin:0 0 16px;
+  margin:0;
   color:var(--ink);
 }
 .cover p{
