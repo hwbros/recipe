@@ -571,8 +571,6 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
 <div class="cover">
   <div class="eyebrow">Home Cooking Notes</div>
   <h1>나의 요리책</h1>
-  <p>메모해 둔 {count}가지 레시피를 한 권으로 모았습니다. 재료와 조리 순서는 원본 그대로, 보기 편하도록 구성만 정리했습니다.</p>
-  <div class="count">총 {count}개 레시피</div>
 </div>
 
 <div class="toc-book">
@@ -583,7 +581,7 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
 </div>
 
 <footer class="book-footer">
-  개인 레시피 노트 모음 &middot; {count} recipes
+  개인 레시피 노트 모음
 </footer>
 
 </body>

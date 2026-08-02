@@ -1,7 +1,7 @@
 {
   "categories": [
-    { "name": "육류 요리", "recipes": ["donteki", "deungsim", "maneul-galbisal", "hamburg"] },
-    { "name": "해산물 요리", "recipes": ["geumtae", "samchi"] },
+    { "name": "육류 요리", "recipes": ["donteki", "deungsim", "maneul-galbisal", "hamburg", "gabrisal-suyuk"] },
+    { "name": "해산물 요리", "recipes": ["geumtae", "samchi", "kkul-daegu-steak"] },
     { "name": "닭 요리", "recipes": ["cheese-buldak"] },
     { "name": "중식", "recipes": ["eohyang-gaji", "tangsuyuk"] },
     { "name": "일식 나베 & 철판요리", "recipes": ["syabu", "sukiyaki", "okonomiyaki"] },
@@ -13,8 +13,10 @@
     "deungsim": { "title": "등심 스테이크", "md": "등심 스테이크.md" },
     "maneul-galbisal": { "title": "마늘갈비살", "md": "마늘갈비살.md" },
     "hamburg": { "title": "함박스테이크", "md": "함박스테이크.md" },
+    "gabrisal-suyuk": { "title": "가브리살 수육", "md": "가브리살수육.md" },
     "geumtae": { "title": "금태 구이", "md": "금태 구이.md" },
     "samchi": { "title": "삼치 데리야끼", "md": "삼치 데리야끼.md" },
+    "kkul-daegu-steak": { "title": "꿀대구스테이크", "md": "꿀대구스테이크.md" },
     "cheese-buldak": { "title": "치즈불닭", "md": "치즈불닭.md" },
     "eohyang-gaji": { "title": "어향가지", "md": "어향가지.md" },
     "tangsuyuk": { "title": "탕수육", "md": "탕수육.md" },
