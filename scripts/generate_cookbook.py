@@ -575,17 +575,11 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
   <div class="count">총 {count}개 레시피</div>
 </div>
 
-<div class="layout">
-  <nav class="toc">
-    <h2>차례</h2>
-    <ol>
+<div class="toc-book">
+  <h2>차례</h2>
+  <div class="toc-columns">
 {toc}
-    </ol>
-  </nav>
-
-  <main class="book">
-    <p style="color:var(--ink-soft); font-size:.95rem; max-width:520px;">왼쪽 차례에서 레시피를 선택하면 각 레시피의 상세 페이지로 이동합니다. 요리의 성격(육류·해산물·닭·중식·일식·한식·밥과 사이드)에 따라 순서대로 묶어 두었습니다.</p>
-  </main>
+  </div>
 </div>
 
 <footer class="book-footer">
@@ -644,10 +638,14 @@ def main():
 
     toc_lines = []
     for cat in config["categories"]:
-        toc_lines.append(f'      <li class="toc-group">{esc(cat["name"])}</li>')
+        toc_lines.append('    <div class="toc-group">')
+        toc_lines.append(f'      <h3 class="toc-group-label">{esc(cat["name"])}</h3>')
+        toc_lines.append('      <ol class="toc-list">')
         for slug in cat["recipes"]:
             title = esc(config["recipes"][slug]["title"])
-            toc_lines.append(f'      <li><a href="recipes/{slug}.html">{title}</a></li>')
+            toc_lines.append(f'        <li><a href="recipes/{slug}.html">{title}</a></li>')
+        toc_lines.append('      </ol>')
+        toc_lines.append('    </div>')
     index_html = INDEX_TEMPLATE.format(count=len(order), toc="\n".join(toc_lines))
     (COOKBOOK_DIR / "index.html").write_text(index_html, encoding="utf-8")
     print(f"wrote {(COOKBOOK_DIR / 'index.html').relative_to(ROOT)}")
