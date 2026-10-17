@@ -65,6 +65,9 @@ def extract_url(text: str) -> str:
     m = re.match(r"^\[[^\]]+\]\((https?://[^\s)]+)\)$", text.strip(), re.IGNORECASE)
     if m:
         return m.group(1)
+    bare = text.strip()
+    if re.match(r"^https?://\S+$", bare, re.IGNORECASE):
+        return bare
     return strip_md(text)
 
 
