@@ -5,7 +5,7 @@
     { "name": "닭 요리", "recipes": ["cheese-buldak"] },
     { "name": "중식", "recipes": ["eohyang-gaji", "tangsuyuk"] },
     { "name": "일식 나베 & 철판요리", "recipes": ["syabu", "sukiyaki", "okonomiyaki"] },
-    { "name": "한식 찌개 & 만능양념", "recipes": ["doenjang", "jjaguri"] },
+    { "name": "한식 국·찌개 & 만능양념", "recipes": ["doenjang", "jjaguri", "kongnamul-guk"] },
     { "name": "밥 & 사이드", "recipes": ["soboro", "gamja-gratin"] }
   ],
   "recipes": {
@@ -26,6 +26,7 @@
     "okonomiyaki": { "title": "오꼬노미야키", "md": "오꼬노미야키.md" },
     "doenjang": { "title": "만능된장 & 된장찌개", "md": "만능된장.md" },
     "jjaguri": { "title": "짜글이", "md": "짜글이.md" },
+    "kongnamul-guk": { "title": "콩나물국", "md": "콩나물국.md" },
     "soboro": { "title": "소보로 덮밥", "md": "소보로 덮밥.md" },
     "gamja-gratin": { "title": "감자그라탕", "md": "감자그라탕.md" }
   }
