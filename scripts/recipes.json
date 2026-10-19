@@ -6,7 +6,7 @@
     { "name": "중식", "recipes": ["eohyang-gaji", "tangsuyuk"] },
     { "name": "일식 나베 & 철판요리", "recipes": ["syabu", "sukiyaki", "okonomiyaki"] },
     { "name": "한식 국·찌개 & 만능양념", "recipes": ["doenjang", "jjaguri", "kongnamul-guk"] },
-    { "name": "밥 & 사이드", "recipes": ["soboro", "gamja-gratin", "gamja-chaejeon"] }
+    { "name": "밥 & 사이드", "recipes": ["soboro", "gamja-gratin", "gamja-chaejeon", "kongnamul-muchim"] }
   ],
   "recipes": {
     "donteki": { "title": "돈테키", "md": "돈테키.md" },
@@ -29,6 +29,7 @@
     "kongnamul-guk": { "title": "콩나물국", "md": "콩나물국.md" },
     "soboro": { "title": "소보로 덮밥", "md": "소보로 덮밥.md" },
     "gamja-gratin": { "title": "감자그라탕", "md": "감자그라탕.md" },
-    "gamja-chaejeon": { "title": "감자채전", "md": "감자채전.md" }
+    "gamja-chaejeon": { "title": "감자채전", "md": "감자채전.md" },
+    "kongnamul-muchim": { "title": "콩나물무침", "md": "콩나물무침.md" }
   }
 }
