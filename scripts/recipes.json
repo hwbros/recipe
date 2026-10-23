@@ -5,7 +5,7 @@
     { "name": "닭 요리", "recipes": ["cheese-buldak"] },
     { "name": "중식", "recipes": ["eohyang-gaji", "tangsuyuk"] },
     { "name": "일식 나베 & 철판요리", "recipes": ["syabu", "sukiyaki", "okonomiyaki"] },
-    { "name": "한식 국·찌개 & 만능양념", "recipes": ["doenjang", "jjaguri", "kongnamul-guk"] },
+    { "name": "한식 국·찌개 & 만능양념", "recipes": ["doenjang", "jjaguri", "kongnamul-guk", "kimchi-jjigae"] },
     { "name": "밥 & 사이드", "recipes": ["soboro", "gamja-gratin", "gamja-chaejeon", "kongnamul-muchim", "musaengchae", "aehobak-bokkeum"] }
   ],
   "recipes": {
@@ -32,6 +32,7 @@
     "gamja-chaejeon": { "title": "감자채전", "md": "감자채전.md" },
     "kongnamul-muchim": { "title": "콩나물무침", "md": "콩나물무침.md" },
     "musaengchae": { "title": "무생채", "md": "무생채.md" },
-    "aehobak-bokkeum": { "title": "애호박볶음", "md": "애호박볶음.md" }
+    "aehobak-bokkeum": { "title": "애호박볶음", "md": "애호박볶음.md" },
+    "kimchi-jjigae": { "title": "돼지고기 김치찌개", "md": "돼지고기 김치찌개.md" }
   }
 }
