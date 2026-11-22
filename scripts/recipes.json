@@ -1,6 +1,6 @@
 {
   "categories": [
-    { "name": "육류 요리", "recipes": ["donteki", "deungsim", "maneul-galbisal", "hamburg", "gabrisal-suyuk", "hangjeongsal-kimchijjim"] },
+    { "name": "육류 요리", "recipes": ["donteki", "deungsim", "maneul-galbisal", "hamburg", "gabrisal-suyuk", "hangjeongsal-kimchijjim", "baechu-chadol-mokssal-jjim"] },
     { "name": "해산물 요리", "recipes": ["geumtae", "samchi", "kkul-daegu-steak"] },
     { "name": "닭 요리", "recipes": ["cheese-buldak"] },
     { "name": "중식", "recipes": ["eohyang-gaji", "tangsuyuk"] },
@@ -33,6 +33,7 @@
     "kongnamul-muchim": { "title": "콩나물무침", "md": "콩나물무침.md" },
     "musaengchae": { "title": "무생채", "md": "무생채.md" },
     "aehobak-bokkeum": { "title": "애호박볶음", "md": "애호박볶음.md" },
-    "kimchi-jjigae": { "title": "돼지고기 김치찌개", "md": "돼지고기 김치찌개.md" }
+    "kimchi-jjigae": { "title": "돼지고기 김치찌개", "md": "돼지고기 김치찌개.md" },
+    "baechu-chadol-mokssal-jjim": { "title": "배추 차돌박이 목살 찜", "md": "배추 차돌박이 목살 찜.md" }
   }
 }
